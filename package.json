@@ -1,0 +1,12 @@
+{
+  "name": "hydraapi",
+  "version": "1.0.0",
+  "description": "API criada com Node.js e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
